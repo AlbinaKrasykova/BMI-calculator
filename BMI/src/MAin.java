@@ -23,6 +23,8 @@ import java.util.Scanner;
             System.out.println("The range is " );
             weightRange(BMI,userWeight);
 
+            System.out.println(name+"see you next time!");
+
 
         }
         public static void weightRange(double BMI,double weight){
